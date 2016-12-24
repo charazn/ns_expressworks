@@ -1,0 +1,27 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "nodeschool expressworks",
+  "main": "program.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/charazn/ns_expressworks.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "char aznable",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charazn/ns_expressworks/issues"
+  },
+  "homepage": "https://github.com/charazn/ns_expressworks#readme"
+}
