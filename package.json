@@ -4,7 +4,10 @@
   "description": "nodeschool expressworks",
   "main": "program.js",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "stylus": "^0.54.5"
   },
   "devDependencies": {},
   "scripts": {
